@@ -1,0 +1,10 @@
+<Alloy>
+	<Window class="container">
+
+		<ScrollView id="scroller">
+			<View id="view">
+			</View>
+		</ScrollView>
+
+	</Window>
+</Alloy>
